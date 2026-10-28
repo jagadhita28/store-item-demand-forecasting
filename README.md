@@ -20,7 +20,6 @@ Unduh dengan `kaggle competitions download -c demand-forecasting-kernels-only -p
 | Linear Regression | 16.167258 | 7.857922 |
 | DOW mean          | 17.296059 | 8.758047 |
 | Seasonal naive    | 17.865486 | 8.350489 |
-|-------------------|-----------|----------|
 
 ![Actual vs Predicted](reports/figures/actual_vs_pred.png)
 
