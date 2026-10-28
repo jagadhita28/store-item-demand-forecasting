@@ -1,6 +1,6 @@
 # Store Item Demand Forecasting
 
-Peramalaman penjualan harian 50 item di 10 toko untuk 90 hari ke depan.
+Peramalan penjualan harian 50 item di 10 toko untuk 90 hari ke depan.
 
 ## Dataset
 Kaggle: Store Item Demand Forecasting Challenge (913.000 baris, 2013-2017).
