@@ -1,4 +1,4 @@
-# Store Item Demand Forecasting
+# Store Sales Demand Forecasting
 
 Peramalan penjualan harian 50 item di 10 toko untuk 90 hari ke depan.
 
